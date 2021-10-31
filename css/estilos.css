@@ -24,7 +24,7 @@ body{font-family: 'Raleway', sans-serif;}
 }
 .hero{
     height: 110vh;
-    background-image: var(--background), url(/assets/Portada.jpeg);
+    background-image: var(--background), url(../assets/Portada.jpeg);
     background-repeat: no-repeat;
     background-size:cover;
     background-attachment: fixed;
