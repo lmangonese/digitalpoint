@@ -78,8 +78,7 @@ body{font-family: 'Raleway', sans-serif;}
     min-height: 40px;
     vertical-align: middle;
     grid-gap: 10px;
-    grid-auto-rows: 140px;  
-    
+    grid-auto-rows: auto;
 }
 .hero__wave{
     position: absolute;
@@ -101,8 +100,8 @@ body{font-family: 'Raleway', sans-serif;}
     border-style:double;
     border-width: 8px;
     border-color: #98C123;
-    max-width: 140px;
-    max-height: 140px;
+    width: 150px;
+    height: 150px;
     
 }
 /*About*/
