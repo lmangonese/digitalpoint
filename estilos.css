@@ -93,13 +93,18 @@ body{font-family: 'Raleway', sans-serif;}
     float: right;
     margin-left: 5px;
   }
-  .icon{
+  .hero__icon{
+    width: fit-content;
+    display: inline-block;
+}
+.icon{
     border-radius: 20%;
     border-style:double;
     border-width: 8px;
     border-color: #98C123;
-    display: inline-block;
+    
 }
+
 /*About*/
 .presentation{
     padding: 0;
