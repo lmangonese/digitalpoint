@@ -73,7 +73,7 @@ body{font-family: 'Raleway', sans-serif;}
 }
 .seccionIcon{
     max-height: 100px;
-    min-height: 20px;
+    min-height: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     vertical-align: middle;
