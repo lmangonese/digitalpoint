@@ -32,7 +32,7 @@ body{font-family: 'Raleway', sans-serif;}
     position: relative;
 }
 .hero .container{
-    display: flexbox;
+    display: grid;
     align-items: top;
     padding: 10px;  
 }
