@@ -71,7 +71,7 @@ body{font-family: 'Raleway', sans-serif;}
     padding-bottom: 0px;
 }
 .seccionIcon{
-    min-height: 10px;
+    max-width: min-content;
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     vertical-align: middle;
@@ -99,7 +99,7 @@ body{font-family: 'Raleway', sans-serif;}
     margin: 0;
 }
 .icon{
-    max-width: 50px;
+    max-width: 150px;
     border-radius: 20%;
     border-style:double;
     border-width: 8px;
