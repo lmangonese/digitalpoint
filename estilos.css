@@ -75,7 +75,7 @@ body{font-family: 'Raleway', sans-serif;}
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     vertical-align: middle;
-    min-height: 2rem;
+    grid-gap: 1px ;
 }
 .hero__wave{
     position: absolute;
@@ -94,7 +94,7 @@ body{font-family: 'Raleway', sans-serif;}
   }
 
 .icon{
-    max-height: 9rem;
+    max-height: 8rem;
     border-radius: 20%;
     border-style:double;
     border-width: 8px;
