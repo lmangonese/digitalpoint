@@ -72,10 +72,9 @@ body{font-family: 'Raleway', sans-serif;}
     padding-bottom: 0px;
 }
 .seccionIcon{
-    max-height: 100px;
-    min-height: 10px;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    display:flex;
+    
+    /*grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;*/
     vertical-align: middle;
     grid-gap: 1px;
     grid-auto-rows: 100px;
@@ -102,7 +101,7 @@ body{font-family: 'Raleway', sans-serif;}
     margin: 0;
 }
 .icon{
-    max-height: 90px;
+    max-height: 150px;
     border-radius: 20%;
     border-style:double;
     border-width: 8px;
