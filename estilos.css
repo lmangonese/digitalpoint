@@ -92,9 +92,7 @@ body{font-family: 'Raleway', sans-serif;}
     float: right;
     margin-left: 5px;
   }
-  .hero__icon{
-    object-fit: cover;
-}
+
 .icon{
     max-height: 9rem;
     border-radius: 20%;
