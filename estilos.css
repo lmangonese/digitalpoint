@@ -73,11 +73,9 @@ body{font-family: 'Raleway', sans-serif;}
 }
 .seccionIcon{
     display: grid;
-    grid-template-columns: 16,7% 16,7% 16,7% 16,7% 16,6% 16,6%;
+    grid-template-columns:  1fr 1fr 1fr 1fr 1fr 1fr;
     min-height: 40px;
     vertical-align: middle;
-    grid-gap: 10px;
-    grid-auto-rows: 100px;
 }
 .hero__wave{
     position: absolute;
