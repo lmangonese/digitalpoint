@@ -119,7 +119,7 @@ body{font-family: 'Raleway', sans-serif;}
     border-radius: 0%;
     object-fit: fill;
     padding-bottom: 20px;
-
+    align-items: center;
 }
 .iconParagraph{
     max-height: 140px ;
