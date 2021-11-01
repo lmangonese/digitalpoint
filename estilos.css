@@ -96,8 +96,8 @@ body{font-family: 'Raleway', sans-serif;}
     margin-left: 5px;
   }
   .icon{
-    width: 140px;
-    height: 140px;
+    max-width: 90%;
+    max-height: 90%;
     border-radius: 20%;
     border-style:double;
     border-width: 8px;
