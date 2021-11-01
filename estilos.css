@@ -9,7 +9,7 @@
 body{font-family: 'Raleway', sans-serif;}
 .container{
     width:90%;
-    margin:0 auto;
+    margin:0 5px;
     overflow: hidden;
     padding: 0;
     max-width:1200px;  
