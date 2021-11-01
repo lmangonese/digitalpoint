@@ -102,12 +102,11 @@ body{font-family: 'Raleway', sans-serif;}
 }
 .icon{
     max-height: 150px;
-    min-width: 10px;
+    max-width: 1fr;
     border-radius: 20%;
     border-style:double;
     border-width: 8px;
-    border-color: #98C123;
-    
+    border-color: #98C123;  
 }
 .tag{display: inline-block;}
 /*About*/
