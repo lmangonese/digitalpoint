@@ -78,7 +78,7 @@ body{font-family: 'Raleway', sans-serif;}
     min-height: 40px;
     vertical-align: middle;
     grid-gap: 10px;
-    grid-auto-rows: 150px;  
+    grid: auto rows 1fr;;  
     
 }
 .hero__wave{
@@ -101,8 +101,8 @@ body{font-family: 'Raleway', sans-serif;}
     border-style:double;
     border-width: 8px;
     border-color: #98C123;
-    object-fit: fill;  
     display: inline-block;
+    width: 120px;
     
     
 }
@@ -124,11 +124,6 @@ body{font-family: 'Raleway', sans-serif;}
     max-height: 140px ;
     display: inline-block;
 } 
-.projects__img{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: fill;}
 
 .presentation__copy{
     width: 80%;
