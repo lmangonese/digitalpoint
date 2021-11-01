@@ -76,7 +76,8 @@ body{font-family: 'Raleway', sans-serif;}
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     vertical-align: middle;
-    grid-gap: 1px ;
+    grid-gap: 1px;
+    grid-auto-rows: auto;
 }
 .hero__wave{
     position: absolute;
@@ -102,7 +103,6 @@ object-fit: contain;
     border-style:double;
     border-width: 8px;
     border-color: #98C123;
-
 }
 
 /*About*/
