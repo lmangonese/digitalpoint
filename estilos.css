@@ -77,7 +77,7 @@ body{font-family: 'Raleway', sans-serif;}
     vertical-align: middle;
     grid-gap: 1px;
     grid-auto-rows: auto;
-    object-fit: cover;
+    object-fit: fill;
 
 
 }
