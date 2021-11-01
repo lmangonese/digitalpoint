@@ -99,7 +99,7 @@ body{font-family: 'Raleway', sans-serif;}
     margin: 0;
 }
 .icon{
-    max-width: 100px;
+    max-width: 50px;
     border-radius: 20%;
     border-style:double;
     border-width: 8px;
