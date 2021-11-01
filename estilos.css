@@ -73,7 +73,6 @@ body{font-family: 'Raleway', sans-serif;}
 .seccionIcon{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    width:inherit;
     vertical-align: middle;
     grid-gap: 1px;
     grid-auto-columns:1fr;
