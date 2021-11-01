@@ -96,7 +96,7 @@ body{font-family: 'Raleway', sans-serif;}
     margin-left: 5px;
   }
 .hero__icon{
-object-fit: contain;
+    text-align: center;
 }
 .icon{
     max-height: 140px;
