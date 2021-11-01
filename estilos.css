@@ -93,7 +93,6 @@ body{font-family: 'Raleway', sans-serif;}
     margin-left: 5px;
   }
   .hero__icon{
-    display: inline-block;
     object-fit: cover;
 }
 .icon{
