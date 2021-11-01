@@ -73,9 +73,11 @@ body{font-family: 'Raleway', sans-serif;}
 }
 .seccionIcon{
     display: grid;
-    grid-template-columns:  1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     min-height: 40px;
     vertical-align: middle;
+    grid-gap: 10px;
+    grid-auto-rows: 140px;    
 }
 .hero__wave{
     position: absolute;
@@ -93,6 +95,8 @@ body{font-family: 'Raleway', sans-serif;}
     margin-left: 5px;
   }
   .icon{
+    width: 100px;
+    height: 100px;
     border-radius: 20%;
     border-style:double;
     border-width: 8px;
@@ -115,10 +119,6 @@ body{font-family: 'Raleway', sans-serif;}
 }
 .iconParagraph{
     max-height: 140px ;
-    display: inline-block;
-} 
-.hero__icon{
-    max-height: 120px ;
     display: inline-block;
 } 
 .projects__img{
