@@ -121,6 +121,10 @@ body{font-family: 'Raleway', sans-serif;}
     max-height: 140px ;
     display: inline-block;
 } 
+.hero__icon{
+    max-height: 140px ;
+    display: inline-block;
+} 
 .projects__img{
     width: 150px;
     height: 150px;
