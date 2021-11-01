@@ -73,12 +73,11 @@ body{font-family: 'Raleway', sans-serif;}
 }
 .seccionIcon{
     display: grid;
-    width: 90%;
-    grid-template-columns: 16,7% 16,7% 16,7% 16,7% 16,7% 16,7%;
+    grid-template-columns: 16,7% 16,7% 16,7% 16,7% 16,6% 16,6%;
     min-height: 40px;
     vertical-align: middle;
     grid-gap: 10px;
-    grid-auto-rows: 140px;
+    grid-auto-rows: 100px;
 }
 .hero__wave{
     position: absolute;
@@ -96,8 +95,6 @@ body{font-family: 'Raleway', sans-serif;}
     margin-left: 5px;
   }
   .icon{
-    max-width: 90%;
-    max-height: 90%;
     border-radius: 20%;
     border-style:double;
     border-width: 8px;
