@@ -76,7 +76,7 @@ body{font-family: 'Raleway', sans-serif;}
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     vertical-align: middle;
     grid-gap: 1rem;
-    grid-auto-rows: minmax(12rem 0);
+    
    margin-left: 0;
    margin-right: 0;
     
@@ -101,7 +101,7 @@ body{font-family: 'Raleway', sans-serif;}
     border-style:double;
     border-width: 8px;
     border-color: #98C123;
-    object-fit:contain;
+    display: inline-block;
 }
 /*About*/
 .presentation{
