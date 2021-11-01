@@ -102,6 +102,7 @@ body{font-family: 'Raleway', sans-serif;}
 }
 .icon{
     max-height: 150px;
+    max-height: 20px;
     border-radius: 20%;
     border-style:double;
     border-width: 8px;
